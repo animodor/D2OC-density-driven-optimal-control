@@ -15,7 +15,8 @@ This code accompanies the following publication:
 
 📄 **Paper (IEEE Transactions on Systems, Man, and Cybernetics: Systems)**  
 👉 DOI: https://doi.org/10.1109/TSMC.2025.3622075
-*(arXiv version coming soon)*
+👉 arXiv: https://arxiv.org/abs/2511.12756
+
 
 ---
 
@@ -136,7 +137,7 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
 DOI: https://doi.org/10.1109/TSMC.2025.3622075
 ```
 
-(arXiv version will be added soon.)
+(arXiv version: https://arxiv.org/abs/2511.12756)
 
 ---
 
